@@ -1,14 +1,14 @@
 # Awesome Open-source Machine Learning for Developers
 
-List of resources, libraries and more for developers who would like to build with open-source machine learning off-the-shelf.
+List of resources, libraries, and more for developers who would like to build with open-source machine learning off-the-shelf.
 
-**Motivation**: Developers are often building machine learning with closed-source models behind gated APIs. These models can change by time without developers knowing, companies are giving away their data during inference and have no control over the model nor data.
+**Motivation**: Developers are often building machine learning with closed-source models behind gated APIs. These models can change by time without developers knowing, companies are giving away their data during inference and have no control over the model or data.
 
 There are a ton of open-source models out there that can be deployed by developers, but reducing barrier of entry to use these models and making developers aware of them are necessary, so I created this repository to do so.
 
 Using the resources here, you can learn to find the model you need and serve it on the platform of your choice using the tools given here.
 
-Hint: Take a look at foundation models section for one-model-fits-all type of models.
+Hint: Take a look at the foundation models section for one-model-fits-all type of models.
 
 _Note_: To contribute, send a pull request to this repository. Note that this repository is focused on open-source machine learning.
 
@@ -160,6 +160,7 @@ _Note_: The foundation model can be found under their associated task.
 - [OWL](https://huggingface.co/collections/merve/owl-series-65aaac3114e6582c300544df): A curation about OWL model released by Google, the most powerful zero-shot object detection model. (as of March '24)
 - [Segment Anything](https://huggingface.co/collections/merve/segment-anything-model-6585835fc76915aa14e2bcbd): A curation about Segment Anything model released by Meta, the most powerful zero-shot image segmentation model. (as of March '24)
 - [Depth Anything](https://github.com/LiheYoung/Depth-Anything): A highly practical solution for robust monocular depth estimation by training on a combination of 1.5M labeled images and 62M+ unlabeled images.
+- [EcoDepth](https://github.com/Aradhye2002/EcoDepth): Effective Conditioning of Diffusion Models for Monocular Depth Estimation
 
 ## Natural Language Processing
 
